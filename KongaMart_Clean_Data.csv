@@ -1,0 +1,17 @@
+Order_ID,Order_Date,Customer_ID,Product_Category,Payment_Type,Order_Status,Gross_Revenue_Naira,Product_Cost_Naira,Discount_Given_Naira,Net_Profit_Naira,Customer_Name,City,Acquisition_Channel
+ORD101,2026-06-10,CUST01,Smartphones,Prepaid_Card,Delivered,350000,280000,10000,60000,"Chinedu Okafor",Lagos,"Instagram Ads"
+ORD102,2026-06-15,CUST02,"Home Appliances",Prepaid_Card,Delivered,220000,160000,5000,55000,"Amina Yusuf",Abuja,"Google Search"
+ORD103,2026-07-02,CUST01,Smartphones,Prepaid_Card,Delivered,400000,310000,15000,75000,"Chinedu Okafor",Lagos,"Instagram Ads"
+ORD104,2026-07-18,CUST04,Fashion,Pay_on_Delivery,Rejected_at_Door,45000,20000,15000,10000,"Emeka Nwosu","Port Harcourt",Influencer
+ORD105,2026-08-05,CUST03,"Beauty & Skincare",Prepaid_Card,Delivered,60000,25000,0,35000,"Toluwalase Adeyemi",Lagos,Referral
+ORD106,2026-08-12,CUST05,Fashion,Pay_on_Delivery,Rejected_at_Door,55000,25000,20000,10000,"Zainab Bello",Abuja,"Instagram Ads"
+ORD107,2026-08-20,CUST02,Smartphones,Prepaid_Card,Delivered,300000,240000,10000,50000,"Amina Yusuf",Abuja,"Google Search"
+ORD108,2026-09-01,CUST06,"Home Appliances",Pay_on_Delivery,Returned_Damaged,180000,140000,30000,10000,"Kemi Adebayo",Ibadan,"Google Search"
+ORD109,2026-09-10,CUST03,"Beauty & Skincare",Prepaid_Card,Delivered,75000,30000,5000,40000,"Toluwalase Adeyemi",Lagos,Referral
+ORD110,2026-09-22,CUST07,Fashion,Prepaid_Card,Delivered,80000,45000,40000,-5000,"Osas Igbinedion",Benin,Influencer
+ORD111,2026-10-02,CUST03,"Beauty & Skincare",Prepaid_Card,Delivered,90000,35000,5000,50000,"Toluwalase Adeyemi",Lagos,Referral
+ORD112,2026-10-08,CUST04,Fashion,Pay_on_Delivery,Delivered,50000,30000,25000,-5000,"Emeka Nwosu","Port Harcourt",Influencer
+ORD113,2026-10-12,CUST05,Smartphones,Pay_on_Delivery,Rejected_at_Door,280000,220000,20000,40000,"Zainab Bello",Abuja,"Instagram Ads"
+ORD114,2026-10-15,CUST03,"Home Appliances",Prepaid_Card,Delivered,150000,100000,0,50000,"Toluwalase Adeyemi",Lagos,Referral
+ORD115,2026-10-18,CUST07,Fashion,Prepaid_Card,Delivered,60000,35000,30000,-5000,"Osas Igbinedion",Benin,Influencer
+ORD116,2026-10-20,CUST06,"Beauty & Skincare",Prepaid_Card,Delivered,45000,18000,2000,25000,"Kemi Adebayo",Ibadan,"Google Search"
